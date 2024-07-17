@@ -140,6 +140,9 @@
     <ClInclude Include="src\include\Player.h" />
     <ClInclude Include="src\include\Shared.h" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="README.md" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
